@@ -171,5 +171,5 @@ You can include screenshots like:
 ---
 
 ### 👨‍💻 Author
-**Developed by:**   
+**Developed by:** Mohit
 **Tech Stack:** Python · FastAPI · Streamlit · scikit-learn  
