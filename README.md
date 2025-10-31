@@ -1,4 +1,4 @@
-# 🏠 Full-Stack Indian House Price Predictor
+# 🏠 Full-Stack House Price Predictor
 
 A **Full-Stack Machine Learning Application** built to predict house prices in India using modern technologies.
 
@@ -34,8 +34,8 @@ Follow these steps **in order** in your terminal 👇
 
 #### 1️⃣ Create a Project Directory
 ```bash
-mkdir indian-house-price-predictor
-cd indian-house-price-predictor
+mkdir house-price-predictor
+cd house-price-predictor
 ```
 
 #### 2️⃣ Save All Files
@@ -155,7 +155,7 @@ streamlit run app.py
 
 - Ensure both **FastAPI** and **Streamlit** servers are running simultaneously.  
 - Re-run `train.py` whenever you update your dataset.  
-- You can replace `mock_housing_data.csv` with a real Indian housing dataset for better accuracy.  
+- You can replace `mock_housing_data.csv` with a real housing dataset for better accuracy.  
 
 ---
 
